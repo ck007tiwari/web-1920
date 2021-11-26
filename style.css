@@ -1,0 +1,156 @@
+#maindiv {
+   /* background-color: #0000002c; */
+   color:rgb(14, 13, 13);
+   /* text-align: center; */
+   background-image: url(IMG/Image\ 2@2x.png);
+   width: 100%;
+   height: 600px;
+   background-position:cover;
+   background-repeat: no-repeat;
+   background-size:100%;
+   /* opacity: 0.9; */
+}
+.maindivtxt{
+   color:rgb(253, 253, 253);
+   /* background-color: rgba(0, 0, 0, 0.123); */
+   text-align: center;
+   padding: 50px;
+   margin: 90px;
+}
+#nav1{
+   margin-left: 0px;
+   font-size: 2rem;
+   font-weight: 600;
+   /* background-color:rgb(255, 254, 254); */
+   color: rgb(216, 129, 16);
+   text-align: left;
+}
+
+#nav2{
+   color: rgb(174, 161, 161);
+   text-align: right;
+}
+#nav3{
+   padding: 10px;
+   color: rgb(255, 255, 255);
+   text-align: right;
+}
+
+#h2{
+   font-weight: 800;
+}
+
+h1 {
+   font-weight: 600;
+   text-align: center
+}
+
+h3,
+p {
+   text-align: center;
+}
+
+#man {
+   /* border: solid black 1px;
+   border-radius: 50px; */
+   border-radius: 150px;
+   width: 200px;
+   height: 200px;
+   float: left;
+   /* padding-top: 10px;
+    padding: bottom 50px; */
+   background-image: url(IMG/Image\ 9.png);
+   background-position: 200px 0px;
+   background-size: 520px;
+}
+
+#logo1 {
+   background-image: url(IMG/nCyvHm-removebg-preview.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 100px;
+   padding: 40px;
+   margin: 5px
+}
+
+#logo2 {
+   background-image: url(IMG/Ju2Rm1-removebg-preview.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 100px;
+   padding: 40px;
+   margin: 5px
+}
+
+#logo3 {
+   background-image: url(IMG/mtFZqM-removebg-preview.png);
+   box-shadow: inset;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 100px;
+   padding: 40px;
+   margin: 5px
+}
+
+#logo4 {
+   background-image: url(IMG/ad3F3y.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 100px;
+   padding: 40px;
+   margin: 5px
+}
+
+#logo5 {
+   background-image: url(IMG/E7ErOq-removebg-preview.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 100px;
+   padding: 40px;
+   margin: 5px
+}
+
+#logo6 {
+   background-image: url(IMG/0RuFi5-removebg-preview.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 100px;
+   padding: 40px;
+   margin: 5px
+}
+
+#logo7 {
+   background-image: url(IMG/UDGAkb-removebg-preview.png);
+   box-shadow: inset;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 100px;
+   padding: 40px;
+   margin: 5px
+}
+
+#logo8 {
+   background-image: url(IMG/o13hv9-removebg-preview.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 100px;
+   padding: 40px;
+   margin: 5px
+}
+
+#button {
+   padding: 5px 40px;
+}
+
+input[type="text"],
+textarea {
+   background-color: #262525b6;
+   text-decoration: aliceblue;
+}
+
+#footer {
+   background-color: #262525f0;
+   text-align: right;
+   color: white;
+   font-size: 10px;
+}
